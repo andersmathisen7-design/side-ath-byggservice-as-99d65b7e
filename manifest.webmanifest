@@ -1,0 +1,25 @@
+{
+  "name": "Ath Byggservice AS",
+  "short_name": "Ath",
+  "description": "Ath Byggservice AS er tømrer i Ski og omegn. Vi tar rehabilitering, tilbygg, isolering, bad, terrasse og garasje – store og små jobber.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#23382c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
